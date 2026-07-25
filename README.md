@@ -4,7 +4,11 @@
   <img src="/pic/pic.png" alt="Hardware Spoofer Banner" width="100%">
 </p>
 
-[![Version](https://img.shields.io/badge/version-2.1.0-blue?style=for-the-badge)](https://github.com/Onyokot/Spoofer/releases)
+<p align="center">
+  <a href="https://github.com/yourusername/hardware-spoofer/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️_СКАЧАТЬ_ПОСЛЕДНЮЮ_ВЕРСИЮ-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a&color=00ff41" alt="Скачать" width="600">
+  </a>
+</p>
 
 > **Мощный инструмент для изменения идентификаторов вашего ПК.**
 
