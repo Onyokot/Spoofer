@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/yourusername/hardware-spoofer/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️_СКАЧАТЬ_ПОСЛЕДНЮЮ_ВЕРСИЮ-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a&color=00ff41" alt="Скачать" width="600">
+    <img src="https://img.shields.io/badge/СКАЧАТЬ_ПОСЛЕДНЮЮ_ВЕРСИЮ-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=FF8C00" alt="Скачать" width="600">
   </a>
 </p>
 
