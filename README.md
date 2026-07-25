@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/hardware-spoofer/releases/latest">
+  <a href="https://github.com/Onyokot/Spoofer/releases/latest">
     <img src="https://img.shields.io/badge/СКАЧАТЬ_ПОСЛЕДНЮЮ_ВЕРСИЮ-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=FF8C00" alt="Скачать" width="600">
   </a>
 </p>
@@ -23,17 +23,6 @@
 ### 🔥 Возможности
 - 🖥️ **Спуфинг материнской платы** (Serial Number, UUID).
 - 💾 **Подмена HDD/SSD** (Serial Number, Model Name).
-
----
-
-## 📦 Скачать
-
-Все стабильные и тестовые сборки выкладываются в разделе **Releases**.
-
-[![Download Latest Release](https://img.shields.io/badge/🚀_Скачать_последнюю_версию-Release-00ff41?style=for-the-badge&logo=github)](https://github.com/Onyokot/Spoofer/releases/latest)
-
-Или посмотрите все доступные версии:  
-[👉 Перейти в раздел Releases](https://github.com/yourusername/hardware-spoofer/releases)
 
 ---
 
